@@ -13,7 +13,7 @@ public class LoginPage extends Resuable{
 	By TPassword = By.id("Password");
 	By TCPassowrd = By.id("ConfirmPassword");
 	By BRegister = By.xpath("//input[@type='submit' and @name ]");
-	
+	String s1 = " abc";
 	public void clickOnRegister() {
 		driver.findElement(LRegisterLink).click();
 	}
