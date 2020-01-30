@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import util.Resuable;
 
 public class LoginPage extends Resuable{
-	
+	By LRegisterLink1 = By.linkText("Register");
 	By LRegisterLink = By.linkText("Register");
 	By RBGenderMale = By.xpath("//input[@value='M']");
 	By Tfirstname = By.id("FirstName");
