@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="94" started-at="2020-01-30T10:23:53 IST" finished-at="2020-01-30T10:23:53 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="94" started-at="2020-01-30T10:23:53 IST" finished-at="2020-01-30T10:23:53 IST">
+      <class name="util.NewTest">
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:util.NewTest@5b87ed94]" name="f" duration-ms="16" started-at="2020-01-30T10:23:53 IST" finished-at="2020-01-30T10:23:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mm]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- util.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
